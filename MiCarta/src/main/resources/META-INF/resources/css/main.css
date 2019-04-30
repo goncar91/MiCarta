@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+
+.form-subirplatos{
+	width:40%;
+	float:left
+}
+
+.contenedor-platos{
+	width:50%;
+	float:left;
+}
+
+.contenedor-micarta{
+	overflow: auto;
+}

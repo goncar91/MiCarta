@@ -1,0 +1,4 @@
+Bundle-Name: MiCarta
+Bundle-SymbolicName: com.carlos
+Bundle-Version: 1.0.0
+Export-Package: com.carlos.constants
